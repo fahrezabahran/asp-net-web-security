@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="WebSecurityLab.Api.Tests/WebSecurityLab.Api.Tests.csproj" />
+  <Project Path="WebSecurityLab.Api/WebSecurityLab.Api.csproj" />
+</Solution>
